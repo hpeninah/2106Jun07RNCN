@@ -1,0 +1,12 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "My first nodejs application for revature",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo insert test command name here"
+  },
+  "author": "Samuel Smetzer",
+  "license": "ISC"
+}
